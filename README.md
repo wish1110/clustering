@@ -1,2 +1,3 @@
-# database
-Project on database design
+# Clustering
+Project on k-mean clustering
+
